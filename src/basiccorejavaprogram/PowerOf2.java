@@ -28,7 +28,7 @@ public class PowerOf2 {
 		}
 		else
 		{
-			System.out.println("please enter a value in given range");
+			System.out.println("please enter a any value in given range");
 		}
 	}
 }

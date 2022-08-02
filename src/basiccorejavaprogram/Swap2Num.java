@@ -9,7 +9,8 @@ package basiccorejavaprogram;
 	    public static void main(String[] args) {
 
 	        Scanner sc = new Scanner(System.in); // create scanner class object
-
+	        System.out.println("enter any two num to swap: ");
+	        
 	        int num1 = sc.nextInt(); // nextInt() method is used for getting input from user in integer value
 	        int num2 = sc.nextInt();
 
